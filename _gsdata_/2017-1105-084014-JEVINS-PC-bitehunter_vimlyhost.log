@@ -1,0 +1,32 @@
+2017-11-05 08:40:17: -- Analysis Started by User Command
+2017-11-05 08:40:18: L: State file does not exist: ftp://bitehunter.vimly.ml/public_html/_gsdata_/_file_state_v4._gs
+2017-11-05 08:40:23: R: State file does not exist: C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/_gsdata_/_file_state_v4._gs
+2017-11-05 08:40:23: Changes: 22, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 23
+2017-11-05 08:40:23: Left to Right: Copy File: 22 
+2017-11-05 08:40:23: -- Analysis Complete. Time 00:00:09, Speed: 2 files/s
+2017-11-05 08:40:23: 
+2017-11-05 08:40:37: == Sync Started by User Command
+2017-11-05 08:40:39: Create Folder 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/.well-known'
+2017-11-05 08:40:39: Create Folder 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/.well-known/pki-validation'
+2017-11-05 08:40:39: Create Folder 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/bitehunt.ga'
+2017-11-05 08:40:39: Create Folder 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/bitehunter.vimly.ml'
+2017-11-05 08:40:39: Create Folder 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/bitehunter.vimly.ml/ludowica'
+2017-11-05 08:40:39: Create Folder 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/cgi-bin'
+2017-11-05 08:40:39: Create Folder 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/database_operations'
+2017-11-05 08:40:40: Copy New 'ftp://bitehunter.vimly.ml/public_html/.htaccess' -> 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/.htaccess'
+2017-11-05 08:40:40: Copy New 'ftp://bitehunter.vimly.ml/public_html/.user.ini' -> 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/.user.ini'
+2017-11-05 08:40:41: Copy New 'ftp://bitehunter.vimly.ml/public_html/bitehunter.vimly.ml/ludowica/.ftpquota' -> 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/bitehunter.vimly.ml/ludowica/.ftpquota'
+2017-11-05 08:40:42: Copy New 'ftp://bitehunter.vimly.ml/public_html/create_product.php' -> 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/create_product.php'
+2017-11-05 08:40:43: Copy New 'ftp://bitehunter.vimly.ml/public_html/database_operations/check_login.php' -> 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/database_operations/check_login.php'
+2017-11-05 08:40:44: Copy New 'ftp://bitehunter.vimly.ml/public_html/database_operations/check_user.php' -> 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/database_operations/check_user.php'
+2017-11-05 08:40:44: Copy New 'ftp://bitehunter.vimly.ml/public_html/database_operations/error_log' -> 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/database_operations/error_log'
+2017-11-05 08:40:45: Copy New 'ftp://bitehunter.vimly.ml/public_html/database_operations/get_reserved_tables.php' -> 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/database_operations/get_reserved_tables.php'
+2017-11-05 08:40:46: Copy New 'ftp://bitehunter.vimly.ml/public_html/database_operations/get_restaurants.php' -> 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/database_operations/get_restaurants.php'
+2017-11-05 08:40:46: Copy New 'ftp://bitehunter.vimly.ml/public_html/database_operations/get_table_positions.php' -> 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/database_operations/get_table_positions.php'
+2017-11-05 08:40:47: Copy New 'ftp://bitehunter.vimly.ml/public_html/database_operations/login.php' -> 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/database_operations/login.php'
+2017-11-05 08:40:48: Copy New 'ftp://bitehunter.vimly.ml/public_html/db_con.php' -> 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/db_con.php'
+2017-11-05 08:40:49: Copy New 'ftp://bitehunter.vimly.ml/public_html/error_log' -> 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/error_log'
+2017-11-05 08:40:49: Copy New 'ftp://bitehunter.vimly.ml/public_html/index.html' -> 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/index.html'
+2017-11-05 08:40:50: Copy New 'ftp://bitehunter.vimly.ml/public_html/php.ini' -> 'C:/Users/Jevin/Documents/GoodSync/bitehunter_vimlyhost/php.ini'
+2017-11-05 08:40:53: == Sync Complete. Time: 00:00:19, Speed: 5.28 KB/s, OK: 22, Errors: 0
+2017-11-05 08:40:54: 

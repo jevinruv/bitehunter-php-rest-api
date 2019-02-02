@@ -1,0 +1,2 @@
+[18-Oct-2017 04:08:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'bitehunter'@'localhost' to database 'database_operations' in /home/bitehunter/public_html/db_con.php on line 13
+[18-Oct-2017 04:08:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'bitehunter'@'localhost' to database 'database_operations' in /home/bitehunter/public_html/db_con.php on line 13

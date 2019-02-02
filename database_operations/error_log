@@ -1,0 +1,9 @@
+[18-Oct-2017 04:06:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bitehunter'@'localhost' (using password: YES) in /home/bitehunter/public_html/db_con.php on line 13
+[18-Oct-2017 04:06:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'bitehunter'@'localhost' to database 'database_operations' in /home/bitehunter/public_html/db_con.php on line 13
+[18-Oct-2017 04:08:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'bitehunter'@'localhost' to database 'database_operations' in /home/bitehunter/public_html/db_con.php on line 13
+[30-Oct-2017 14:03:43 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/bitehunter/public_html/database_operations/get_reserved_tables.php on line 10
+[30-Oct-2017 14:03:50 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/bitehunter/public_html/database_operations/get_reserved_tables.php on line 10
+[30-Oct-2017 14:03:59 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/bitehunter/public_html/database_operations/get_reserved_tables.php on line 10
+[30-Oct-2017 14:04:18 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/bitehunter/public_html/database_operations/get_reserved_tables.php on line 10
+[30-Oct-2017 14:08:55 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/bitehunter/public_html/database_operations/get_reserved_tables.php on line 10
+[30-Oct-2017 14:10:41 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/bitehunter/public_html/database_operations/get_reserved_tables.php on line 10
